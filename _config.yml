@@ -1,11 +1,11 @@
 # Site settings
-author: Olivia Kesler
-title: 
+author: Olivia Kesler 
+title: The Little Engine That Codes
 header-img: img/home-bg.png
 email: oakesler@protonmail.ch
-copyright_name: Olivia Kesler
+copyright_name: Olivia Kesler 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  i think i code, i think i code, i think i code....
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  oakesler
